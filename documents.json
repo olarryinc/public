@@ -1,0 +1,42 @@
+[
+  {
+    "filename": "w2_employer_a_2023.pdf",
+    "summary": "Annual wage and tax statement showing gross income, federal income tax withheld, and Social Security wages for employee."
+  },
+  {
+    "filename": "form_1040_joint_filing.pdf",
+    "summary": "Federal income tax return for a married couple filing jointly, includes multiple schedules and deductions."
+  },
+  {
+    "filename": "brokerage_statement_fidelity.pdf",
+    "summary": "Investment income breakdown including 1099-DIV, 1099-INT, and capital gains details from brokerage account."
+  },
+  {
+    "filename": "form_1099_misc_independent.pdf",
+    "summary": "Shows non-employee compensation paid for contract work, categorized under 1099-MISC."
+  },
+  {
+    "filename": "year_end_earnings_summary_w2.pdf",
+    "summary": "Employee year-end earnings including federal, state, Social Security and Medicare tax information."
+  },
+  {
+    "filename": "real_estate_deed.pdf",
+    "summary": "Legal document indicating property transfer and ownership rights — includes parcel number and signatures."
+  },
+  {
+    "filename": "form_1099_int_bank.pdf",
+    "summary": "Bank-issued document listing interest income earned on savings and checking accounts."
+  },
+  {
+    "filename": "irs_tax_transcript_2021.pdf",
+    "summary": "Official transcript from the IRS showing filed tax return details, payments made, and assessed taxes."
+  },
+  {
+    "filename": "form_1099_k_payments.pdf",
+    "summary": "Report of third-party payment transactions processed through platforms like PayPal or Square."
+  },
+  {
+    "filename": "unclear_doc.pdf",
+    "summary": "Summarizes financial activity, includes payout and form references."
+  }
+]
